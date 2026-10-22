@@ -24,11 +24,15 @@ The repository is partitioned into focused directories reflecting core academic 
 
 This collection provides textile engineering students and course instructors with direct access to curriculum blueprints and study materials required throughout the academic term.
 
-|<img src="https://github.com/user-attachments/assets/47a80fac-c4ac-4932-ad4e-19fdf3b7d94a">|<img src="https://github.com/user-attachments/assets/3ba37695-57f3-4c38-a7cf-ca599e9b691c">|
-|:------ |:------|
-|<img src="https://github.com/user-attachments/assets/1224ccce-b77d-4156-8ef8-0cf16aedbf29">|<img src="https://github.com/user-attachments/assets/e9f61cb2-55c6-4a26-9e2c-1a8116452143">|
-|<img src="https://github.com/user-attachments/assets/f5c0f74c-97c8-4530-8d85-ec63fc88222e">|<img src="https://github.com/user-attachments/assets/cf4f77b3-1dfa-4d95-824f-1ae134278026">|
+<code> Part A </code>
 
+|<img src="https://github.com/user-attachments/assets/5263bfa7-6eae-4584-91d3-f1f60f42fc9b">|<img src="https://github.com/user-attachments/assets/bcc4d64f-ebcf-40b9-b2ca-f1060c10945c">|
+|:------ |:------|
+|<img src="https://github.com/user-attachments/assets/29b15a7b-74e6-4843-9896-140dcf158252">|<img src="https://github.com/user-attachments/assets/1777181e-b8f0-4817-9d23-69651fc1996f">|
+|<img src="https://github.com/user-attachments/assets/8191853c-7cda-4a4e-81d9-f01b33fb76e1">|<img src="https://github.com/user-attachments/assets/f73f64d0-0832-4d51-abfa-0b0f1597ac8d">|
+|<img src="https://github.com/user-attachments/assets/4b3ef91b-767d-47f0-b077-2bec695df5e3"> |<img src="https://github.com/user-attachments/assets/c8d73d48-b0fb-496f-87b0-8056300b3cf8"> |
+
+<code> Part B </code>
 ## 📑 Course Materials
 | Part A | Part B|
 |:----- | :---- |
